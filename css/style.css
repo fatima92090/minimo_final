@@ -39,7 +39,7 @@ header{
 .menu ul li a{
 	text-decoration: none;
     display: block;
-    padding: 36px 50px;
+    padding: 36px 35px;
     color: #777777;
     transition: .5s;
     text-transform: uppercase;
